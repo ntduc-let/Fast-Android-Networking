@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://oss.jfrog.org/libs-snapshot" }
+    }
+}
+rootProject.name = "Fast-Android-Networking"
+include ':app'
+include ':AndroidNetworking'
+include ':JacksonAndroidNetworking'
+include ':RxAndroidNetworking'
+include ':Rx2AndroidNetworking'
+include ':Rx3AndroidNetworking'
+include ':rxapp'
+include ':rx2app'
+include ':rx3app'

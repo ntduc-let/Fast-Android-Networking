@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidNetworking" />
+            <option value="$PROJECT_DIR$/JacksonAndroidNetworking" />
+            <option value="$PROJECT_DIR$/Rx2AndroidNetworking" />
+            <option value="$PROJECT_DIR$/Rx3AndroidNetworking" />
+            <option value="$PROJECT_DIR$/RxAndroidNetworking" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/rx2app" />
+            <option value="$PROJECT_DIR$/rx3app" />
+            <option value="$PROJECT_DIR$/rxapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
